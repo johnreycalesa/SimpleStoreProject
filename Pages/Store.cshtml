@@ -1,0 +1,28 @@
+@page
+@using ShopEase.Models
+@inject IWebHostEnvironment Env
+@{
+    ViewData["Title"] = "Store";
+
+    var productsJson = System.IO.File.ReadAllText(Path.Combine(Env.ContentRootPath, "Data/products.json"));
+    var products = System.Text.Json.JsonSerializer.Deserialize<List<Product>>(productsJson);
+}
+
+<h1>Store</h1>
+<table>
+    <thead>
+        <tr>
+            <th>Product Name</th>
+            <th>Price</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in products)
+        {
+            <tr>
+                <td>@product.Name</td>
+                <td>@product.Price</td>
+            </tr>
+        }
+    </tbody>
+</table>
