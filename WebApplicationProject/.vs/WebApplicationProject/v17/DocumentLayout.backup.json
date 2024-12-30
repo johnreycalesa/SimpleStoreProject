@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\views\\home\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:views\\home\\store.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\views\\home\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:views\\home\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:31:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Models\\OrderItem.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\OrderItem.cs",
+              "RelativeToolTip": "Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:30:48.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-28T05:30:22.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Store.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\Store.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Store.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\Store.cshtml",
+              "RelativeToolTip": "Views\\Home\\Store.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:12:44.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\MyOrders.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\MyOrders.cshtml",
+              "RelativeToolTip": "Views\\Home\\MyOrders.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-28T05:11:41.189Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
