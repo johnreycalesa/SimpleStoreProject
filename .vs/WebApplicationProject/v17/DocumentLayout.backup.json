@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:data\\orders.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|c:\\users\\user\\source\\repos\\webapplicationproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{11E441B1-C5F3-4EC7-937A-612EA066DFBD}|WebApplicationProject.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +46,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "orders.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Data\\orders.json",
+              "RelativeDocumentMoniker": "Data\\orders.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Data\\orders.json",
+              "RelativeToolTip": "Data\\orders.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-30T03:23:14.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:19:55.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:15:14.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-30T03:14:37.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -47,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "OrderItem.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\OrderItem.cs",
               "RelativeDocumentMoniker": "Models\\OrderItem.cs",
@@ -60,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Order.cs",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Models\\Order.cs",
               "RelativeDocumentMoniker": "Models\\Order.cs",
@@ -73,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Store.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\Store.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Store.cshtml",
@@ -81,12 +149,11 @@
               "RelativeToolTip": "Views\\Home\\Store.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T05:12:44.108Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T05:12:44.108Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "MyOrders.cshtml",
               "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\WebApplicationProject\\Views\\Home\\MyOrders.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\MyOrders.cshtml",
@@ -94,8 +161,7 @@
               "RelativeToolTip": "Views\\Home\\MyOrders.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-28T05:11:41.189Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-28T05:11:41.189Z"
             }
           ]
         }
