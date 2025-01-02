@@ -1,12 +1,207 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:views\\orders\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:views\\store\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|c:\\users\\user\\source\\repos\\johnreycalesa\\simplestoreproject\\webapplicationexam\\data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0FACBF2-D0FF-4DB4-B698-D9A054F25AC3}|WebApplicationExam.csproj|solutionrelative:data\\products.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T06:58:51.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMCAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-01-01T06:28:43.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:21:18.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:19:32.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T06:18:07.751Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:15:01.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:07:39.399Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Orders\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Orders\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Orders\\Index.cshtml",
+              "RelativeToolTip": "Views\\Orders\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T06:07:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Store\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Store\\Index.cshtml",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Views\\Store\\Index.cshtml",
+              "RelativeToolTip": "Views\\Store\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-01T06:03:53.925Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-01T06:01:58.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "products.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Data\\products.json",
+              "RelativeDocumentMoniker": "Data\\products.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\johnreycalesa\\SimpleStoreProject\\WebApplicationExam\\Data\\products.json",
+              "RelativeToolTip": "Data\\products.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-01T06:00:45.727Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

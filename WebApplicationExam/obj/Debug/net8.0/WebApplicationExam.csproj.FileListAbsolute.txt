@@ -39,3 +39,5 @@ C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\b
 C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\obj\Debug\net8.0\WebApplicationExam.csproj.AssemblyReference.cache
 C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\obj\Debug\net8.0\WebAppli.E30739B0.Up2Date
+C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\bin\Debug\net8.0\package-lock.json
+C:\Users\USER\source\repos\johnreycalesa\SimpleStoreProject\WebApplicationExam\bin\Debug\net8.0\package.json

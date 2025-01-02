@@ -12,9 +12,9 @@ namespace WebApplicationExam.Controllers
         {
             var productsJson = System.IO.File.ReadAllText("Data/products.json");
             var products = JsonConvert.DeserializeObject<List<Product>>(productsJson);
+
             return View(products);
         }
-
         // GET: StoreController/Details/5
         public IActionResult Details(int id)
         {

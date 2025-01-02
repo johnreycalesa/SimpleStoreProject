@@ -12,13 +12,19 @@ namespace WebApplicationExam.Controllers
         {
             var ordersJson = System.IO.File.ReadAllText("Data/orders.json");
             var orders = JsonConvert.DeserializeObject<List<Order>>(ordersJson);
-            var orderSummary = orders.Select(o => new
+            var orderSummary = orders.Select(order => new OrderSummary
             {
-                OrderId = o.Id,
-                TotalCost = o.Items.Sum(i => i.NetCost)
-            });
+                OrderId = order.Id,
+                NetPrice = order.Items.Sum(item => item.NetCost)
+            }).ToList();
+
             return View(orderSummary);
+
         }
+
+        
+
+
 
         // GET: OrdersController/Details/5
         public IActionResult Details(int id)

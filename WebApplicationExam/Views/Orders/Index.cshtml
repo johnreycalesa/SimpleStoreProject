@@ -2,20 +2,25 @@
     ViewData["Title"] = "Orders";
 }
 
+@model List<OrderSummary>
 <div class="text-center">
     <h1>My Orders</h1>
     <table>
-        <tr>
-            <th>Order ID</th>
-            <th>Net Price</th>
-        </tr>
-        @foreach (var order in Model)
-        {
+        <thead>
             <tr>
-                <td>@order.OrderId</td>
-                <td>@order.NetPrice</td>
+                <th>Order ID</th>
+                <th>Net Price</th>
             </tr>
-        }
+        </thead>
+        <tbody>
+            @foreach (var order in Model)
+            {
+                <tr>
+                    <td>@order.OrderId</td>
+                    <td>@order.NetPrice.ToString("C")</td> <!-- Format as currency -->
+                </tr>
+            }
+        </tbody>
     </table>
-
 </div>
+
